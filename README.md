@@ -27,7 +27,7 @@ Detalha a evolução mês a mês do patrimônio, mostrando o "efeito bola de nev
 * **Python 3**
 * **Pandas:** Estruturação e manipulação da base de dados histórica.
 * **Plotly (`graph_objects`):** Renderização da interface gráfica analítica.
-* **XlsxWriter:** Injeção de formatação e estilos visuais nativos no Excel via código.
+* **XlsxWriter:** Aplicação de formatação e estilos visuais nativos no Excel via código.
 
 ## Como Executar a Aplicação
 1. Certifique-se de ter o Python instalado.
