@@ -21,7 +21,7 @@ Mostra todos os parâmetros de entrada e os resultados finais de forma consolida
 **2. Aba 'Histórico Mensal'**
 Detalha a evolução mês a mês do patrimônio, mostrando o "efeito bola de neve" dos juros compostos com visual de Tabela Oficial do Excel.
 
-![Print da aba Historico Mensal](Histórico%20mensal_Excel.png)
+![Print da aba Historico Mensal](Historico%20mensal_Excel.png)
 
 ## Tecnologias Utilizadas
 * **Python 3**
